@@ -12,3 +12,9 @@ Dans `index.html`, section **Contact** :
 2. Framework preset : **None** · Build command : *(vide)* · Build output directory : **/**
 3. Deploy. Chaque `git push` met le site à jour automatiquement.
 4. Nom de domaine perso : onglet *Custom domains* du projet.
+
+## Carte de visite (`carte-de-visite/`)
+- `DJ-TEX_carte-de-visite_91x61mm.pdf` : fichier à envoyer à l'imprimeur, page 1 = recto, page 2 = verso.
+  Format 85 × 55 mm + 3 mm de fond perdu de chaque côté (91 × 61 mm).
+- `carte.html` : source modifiable (téléphone, Facebook, Instagram au verso), puis « Imprimer → PDF » sans marges, arrière-plans activés.
+- `apercu-recto.png` / `apercu-verso.png` : aperçus (le pointillé = trait de coupe).
